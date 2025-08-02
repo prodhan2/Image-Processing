@@ -1,6 +1,6 @@
 # Webcam Image Processing with Linear and Nonlinear Techniques
 
-This Python program demonstrates real-time image processing using your webcam, applying both linear and nonlinear transformations along with their histograms.
+This Python program demonstrates real-time  image processing using my  webcam, applying both linear and nonlinear transformations along with their histograms.
 
 ![Demo Animation](https://github.com/prodhan2/Image-Processing/blob/main/ezgif-3c3a9a266e2966.gif)
 
