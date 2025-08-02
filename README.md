@@ -2,7 +2,7 @@
 
 This Python program demonstrates real-time image processing using your webcam, applying both linear and nonlinear transformations along with their histograms.
 
-![Demo](https://i.postimg.cc/QxyntMQF/ezgif-3c3a9a266e2966.gif)
+[![Demo GIF - Click to view](https://i.postimg.cc/QxyntMQF/ezgif-3c3a9a266e2966.gif)](https://i.postimg.cc/QxyntMQF/ezgif-3c3a9a266e2966.gif)
 
 ## Features
 
